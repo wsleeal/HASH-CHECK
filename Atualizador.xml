@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<Configuracao>
+  <Atualizador>
+    <Versao>1.8.202</Versao>  <!-- Versão atual do sistema -->
+    <AtualizacaoForcada>1</AtualizacaoForcada>  <!-- Força a atualização do sistema independente da versão encontrada (1 - Ligado / 0 - Desligado) -->
+    <ZipNome>pafecf_1.8.201.zip</ZipNome>  <!-- Nome do arquivo ZIP de atualização -->
+    <ZipMD5>31018E41609A2D31867A520A0E3CBF89</ZipMD5>  <!-- MD5 do arquivo ZIP de atualização -->
+ </Atualizador>
+</Configuracao>
